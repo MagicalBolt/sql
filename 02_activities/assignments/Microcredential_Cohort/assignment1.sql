@@ -193,7 +193,7 @@ CREATE TABLE temp.new_vendor AS
 INSERT INTO temp.new_vendor
 VALUES (10,'Thomass Superfood Store', 'Fresh Focused', 'Thomas', 'Rosenthal');
 
---SELECT * FROM temp.new_vendor;
+SELECT * FROM temp.new_vendor;
 
 
 --END QUERY
